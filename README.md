@@ -11,19 +11,12 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `Hosted On`
-open [https://kajal-ecomm.netlify.app/](https://kajal-ecomm.netlify.app/) to view it in your browser
 
 ## Features
 
 All the featuere works on temporary which is ADD, DELETE and UPDATE (except fetch).
 
 
-#### `fetch data`
-fetching data and showing products on your browser using the API -> [https://dummyjson.com/products](https://dummyjson.com/products).
 
 #### `Add a product`
 Add a product, make 'POST' call to the API url(from where we are fetching) and save the product to react state(It is a dummy request data, we won't be able to add on the server data. But request is valid and will send some data.)
