@@ -1,5 +1,5 @@
 # Introduction of project
-This is the 3rd React Skill test project assigned by Coding Ninjas.
+This is the React Skill test project assigned by Coding Ninjas.
 Project Name: Ecommerce app
 
 ## Available Scripts
